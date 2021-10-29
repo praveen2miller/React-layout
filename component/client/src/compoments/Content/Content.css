@@ -1,0 +1,19 @@
+.Content {
+    display:flex;
+    
+  }
+ 
+  .Right {
+    background-color: #5b9bd5;
+    width:80%; 
+  }
+
+  .Left {
+    background-color: #4672c4;
+    margin-left: 0px;
+    width:20%;
+    height: 75vh;
+    font-size: 20px;
+    
+  }
+ 
